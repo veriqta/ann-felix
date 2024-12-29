@@ -1,6 +1,6 @@
 <img src="https://github.com/ann-afame/ann-afame/blob/main/mobann%20tech%20new%20logo.jpg" alt="logo" width="1200" height="400"/>
 <h1 align="center">Hi 👋, I'm Ann-Felix 90% of my Repositories are Private</h1>
-<h3 align="center"> Passionate About DevOps, and Cloud </h3>
+<h3 align="center"> Multi-Cloud Architectures & Offensive Security </h3>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/ann_afame)
